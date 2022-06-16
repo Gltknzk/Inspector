@@ -1,0 +1,14 @@
+{
+  "openapi" : "3.0.0",
+  "info" : {
+    "title" : "Datatera Beta API",
+    "description" : "An API for Datatera Inspector Functions",
+    "version" : "1.0"
+  },
+  "servers" : [ {
+    "url" : "https://datatera-beta.azurewebsites.net",
+    "description" : "Datatera Beta v1.0"
+  } ],
+  "paths" : { },
+  "components" : { }
+}

@@ -1,0 +1,42 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "version": "1.0",
+    "title": "Datatera Beta API",
+    "description": "An API for Datatera Inspector Functions"
+  }, "paths": {
+  "/beta/checkcreditcardno/{creditcardno}": {
+      "get": {
+        "tags": [
+          "creditcardno"
+        ],
+        "description": "Returns if credit card no detected!",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "creditcardno",
+            "required": true,
+            "description": "creditcardno",
+            "schema": {
+              "type": "string",
+              "example": "5490892344502398"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Credit Card Number Check Verified",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string",
+                  "example": ""
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

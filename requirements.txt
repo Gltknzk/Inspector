@@ -1,0 +1,7 @@
+connexion == 2.6.0
+python_dateutil >= 2.7
+setuptools >= 21.0.0
+json-sempai >= 0.4.0
+scipy >= 1.7.3
+flask_swagger >= 0.2.14
+flask
