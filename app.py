@@ -1,14 +1,14 @@
+from flask import Flask, jsonify, render_template, request
+from flask_swagger import swagger
+from azure.storage.blob import BlobClient
+from tensorflow.keras.preprocessing.text import Tokenizer
+from tensorflow.keras.preprocessing.sequence import pad_sequences
 import re
 import pandas as pd
 import tensorflow as tf
 import json, random, numpy as np
 import matplotlib.pyplot as plt
 import urllib.request, json, seaborn, os, uuid
-from azure.storage.blob import BlobClient
-from flask import Flask, jsonify, render_template, request
-from flask_swagger import swagger
-from tensorflow.keras.preprocessing.text import Tokenizer
-from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 app = Flask(__name__)
 
