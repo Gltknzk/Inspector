@@ -38,7 +38,7 @@
           }
         }
     },
-  "/beta/sensitivedata": {
+    "/beta/sensitivedata": {
       "get": {
         "tags": [
           "sensitivedata"
@@ -54,7 +54,7 @@
             "schema": {
               "type": "string",
               "example": "https://datateraalpha.blob.core.windows.net/beta/SensitiveDataset.json"
-            }
+          }
           },{
             "in": "query",
             "name": "Nonsensitive_Data",
@@ -65,7 +65,7 @@
               "type": "string",
               "example": "https://datateraalpha.blob.core.windows.net/beta/NonSensitiveDataset.json"
             }
-          }],
+         }],
         "responses": {
           "200": {
             "description": "Sensitive Data",
