@@ -37,8 +37,8 @@
             }
           }
         }
-      },
-    "/beta/sensitivedata": {
+    },
+  "/beta/sensitivedata": {
       "get": {
         "tags": [
           "sensitivedata"
@@ -74,9 +74,10 @@
                 "schema": {
                   "type": "string",
                   "example": ""
+                    }
+                  }
                 }
-              }
-            }
+             }
           }
         }
       }
