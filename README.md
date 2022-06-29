@@ -119,21 +119,21 @@ Grant Deliverables 2: Qualitative Text Data Inspector Function powered by AI
 Output a result with the ratio indicating the qualitativeness of the dataset that is based on the KPIs applied.
 
 Project Roadmap:
-Grant Deliverables 1: Sensitive Text Data Inspector Function powered by AI (Convolutional Neural Network (CNN))
-Sensitive Data Inspector Function powered by AI - Development completed & System test started - Apr 15, 2022
-System test by developer completed & functions published on SwaggerHub - May 13, 2022
-Test cases and sample datasets will be provided for Acceptance Test - on May 20, 2022 
-Acceptance test on Swagger - May 27, 2022
-Publishing on social media that we release the pre-beta version - on June 30, 2022 
-Pre-Beta testers will be informed - on July 1, 2022
+Grant Deliverables 1: Sensitive Text Data Inspector Function powered by AI (Convolutional Neural Network (CNN)) <br />
+Sensitive Data Inspector Function powered by AI - Development completed & System test started - Apr 15, 2022 <br />
+System test by developer completed & functions published on SwaggerHub - May 13, 2022 <br />
+Test cases and sample datasets will be provided for Acceptance Test - on May 20, 2022 <br />
+Acceptance test on Swagger - May 27, 2022 <br />
+Publishing on social media that we release the pre-beta version - on June 30, 2022 <br />
+Pre-Beta testers will be informed - on July 1, 2022 <br />
 
-Grant Deliverables 2: Qualitative Text Data Inspector Function powered by AI (Convolutional Neural Network (CNN))
-Qualitative Data Inspector Function powered by AI - Development completed & System test started - July 30, 2022
-System test by developer completed & functions published on SwaggerHub - Aug 13, 2022
-Test cases and sample datasets will be provided for Acceptance Test - on Aug 20, 2022 
-Acceptance test on Swagger - Aug 27, 2022
-Publishing on social media that we release the MVP beta version - on Aug 30, 2022 
-MVP Beta testers will be informed - on Sep 1, 2022
+Grant Deliverables 2: Qualitative Text Data Inspector Function powered by AI (Convolutional Neural Network (CNN)) <br />
+Qualitative Data Inspector Function powered by AI - Development completed & System test started - July 30, 2022 <br />
+System test by developer completed & functions published on SwaggerHub - Aug 13, 2022 <br />
+Test cases and sample datasets will be provided for Acceptance Test - on Aug 20, 2022 <br />
+Acceptance test on Swagger - Aug 27, 2022 <br />
+Publishing on social media that we release the MVP beta version - on Aug 30, 2022 <br />
+MVP Beta testers will be informed - on Sep 1, 2022 <br />
 
 What are the team's future plans and intentions? Is there maintenance? Possible extensions to the work? <br />
 Yes, we will maintain and develop further and fix bugs/errors since this module will be part of our Datatera solution.
