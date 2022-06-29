@@ -144,7 +144,7 @@ def sensitive_data():
 
   model = tf.keras.Sequential([
       tf.keras.layers.Embedding(vocab_size, embedding_dim, input_length=max_length),
-      tf.keras.layers.Conv1D(64, 5, activation='relu'),
+      tf.keras.layers.Conv1D(128, 5, activation='relu'),
       tf.keras.layers.GlobalAveragePooling1D(),
       tf.keras.layers.Dense(24, activation='relu'),
       tf.keras.layers.Dense(1, activation='sigmoid')])
@@ -157,9 +157,7 @@ def sensitive_data():
   history = model.fit(training_padded, 
                       training_labels, 
                       epochs=num_epochs, 
-                      validation_data=(
-                          validation_padded, 
-                          validation_labels), 
+                      validation_data=(validation_padded, validation_labels), 
                       verbose=1)
 
   def plot_graphs(history, string):
