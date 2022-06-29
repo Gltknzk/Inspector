@@ -54,33 +54,33 @@ Founder at Datatera <br />
 
 Tevfik Akin
 
-Role: Senior Pharmacist & Data Analyst
-Relevant Credentials:
-GitHub: https://github.com/tevfikakin
-LinkedIn: https://www.linkedin.com/in/tevfik-akin
-Other: 
-Background/Experience:
-Data Analyst at Datatera
+Role: Senior Pharmacist & Data Analyst <br />
+Relevant Credentials: <br />
+GitHub: https://github.com/tevfikakin <br />
+LinkedIn: https://www.linkedin.com/in/tevfik-akin <br />
+Other: <br />
+Background/Experience: <br />
+Data Analyst at Datatera <br />
 
 Zeki Gultekin
 
-Role: Senior Data Analyst
-Relevant Credentials:
-GitHub: https://github.com/Gltknzk
-LinkedIn: https://www.linkedin.com/in/zeki-gultekin
-Other: 
-Background/Experience:
-Senior Data Analyst at Datatera
+Role: Senior Data Analyst <br />
+Relevant Credentials: <br />
+GitHub: https://github.com/Gltknzk <br />
+LinkedIn: https://www.linkedin.com/in/zeki-gultekin <br />
+Other: <br />
+Background/Experience: <br />
+Senior Data Analyst at Datatera <br />
 
 2.2 Advisors <br />
 
 Ruslan Gasimli
 
-Role: Advisor
-Other: 
-Background/Experience:
-Data Advisor at Datatera
-Senior BI Data Scientist
+Role: Advisor <br />
+Other: <br />
+Background/Experience: <br />
+Data Advisor at Datatera <br />
+Senior BI Data Scientist <br />
 
 Part 3 - Proposal Details <br />
 
