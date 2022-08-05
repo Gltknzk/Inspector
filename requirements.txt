@@ -6,8 +6,9 @@ scipy >= 1.7.3
 flask_swagger >= 0.2.14
 flask
 tensorflow == 2.9.1
-pandas == 1.4.2
+pandas == 1.4.3
+pandas-profiling == 3.2.0
 azure-storage-blob == 12.11.0
-seaborn == 0.11.2
-keras == 2.9.0
-Keras-Preprocessing == 1.1.2
+klib == 1.0.1
+termcolor == 1.1.0
+matplotlib == 3.5.2
